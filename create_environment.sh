@@ -68,14 +68,14 @@ echo "Starting the Reminder App..."
 bash ./app/reminder.sh
 
 echo "Reminder App has been executed successfully!"' > submission_reminder_app/startup.sh 
+
 cat <<EOL >> submission_reminder_app/assets/submissions.txt
-Student Name, Assignment, Submission  Status
+Student Name, Assignment, Status
 papa sava, Shell Navigation, not submitted
 yego, Shell Navigation, submitted
 Jado, Shell Navigation, not submitted
 Pepe, Shell Navigation, submitted
 Sean breezy, Shell Navigation, not submitted
-
 EOL 
 
 echo "added five more students record"
