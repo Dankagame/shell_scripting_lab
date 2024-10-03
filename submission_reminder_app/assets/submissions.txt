@@ -58,3 +58,4 @@ EOL
 echo "added five more students record"
 
 chmod +x submission_reminder_app/startup.sh
+
