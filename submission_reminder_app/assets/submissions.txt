@@ -35,3 +35,15 @@ echo "added five more students record"
 
 chmod +x submission_reminder_app/startup.sh 
 
+Student Name, Assignment, Status
+papa sava, Shell Navigation, not submitted
+yego, Shell Navigation, submitted
+Jado, Shell Navigation, not submitted
+Pepe, Shell Navigation, submitted
+Sean breezy, Shell Navigation, not submitted
+EOL 
+
+echo "added five more students record"
+
+chmod +x submission_reminder_app/startup.sh 
+

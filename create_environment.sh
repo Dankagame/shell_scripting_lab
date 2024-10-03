@@ -71,14 +71,13 @@ echo "Reminder App has been executed successfully!"' > submission_reminder_app/s
 
 cat <<EOL >> submission_reminder_app/assets/submissions.txt
 Student Name, Assignment, Status
-papa sava, Shell Navigation, not submitted
-yego, Shell Navigation, submitted
+Bebe, Shell Navigation, not submitted
+oyee, Shell Navigation, submitted
 Jado, Shell Navigation, not submitted
-Pepe, Shell Navigation, submitted
-Sean breezy, Shell Navigation, not submitted
+Pier, Shell Navigation, submittedo
+toto, Shell Navigation, not submitted
 EOL 
 
 echo "added five more students record"
 
-chmod +x submission_reminder_app/startup.sh 
-
+chmod +x submission_reminder_app/startup.sh
