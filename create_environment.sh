@@ -69,7 +69,7 @@ bash ./app/reminder.sh
 
 echo "Reminder App has been executed successfully!"' > submission_reminder_app/startup.sh 
 
-cat <<EOL >> submission_reminder_app/assets/submissions.txt
+echo <<EOL >> submission_reminder_app/assets/submissions.txt
 Student Name, Assignment, Status
 Bebe, Shell Navigation, not submitted
 oyee, Shell Navigation, submitted
